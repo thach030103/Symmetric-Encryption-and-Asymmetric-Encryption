@@ -13,4 +13,9 @@
   <li><strong>Ưu điểm:</strong> Bảo mật cao hơn vì không cần chia sẻ khóa riêng.</li>
   <li><strong>Nhược điểm:</strong> Chậm hơn mã hóa đối xứng.</li>
   <li><strong>Ví dụ:</strong> RSA, ECC (Elliptic Curve Cryptography).</li>
-</li>
+</ul>
+<h3>Source code</h3>
+<ul>
+  <li>Mã đối xứng AFFINE</li>
+  <li>Mã bất đối xứng RSA</li>
+</ul>
